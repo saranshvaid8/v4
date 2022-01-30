@@ -146,8 +146,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              My name is Saransh Vaid, I also go by Sunny. I am a programmer and I love programming
-              computers because they are efficient, effective and fun !
+              My name is Saransh Vaid, I also go by Sunny. I am software developer focused on
+              building automated testing solutions with the goal of reducing the testing efforts,
+              delivering capability faster and more affordably without compromising quality.
+            </p>
+            <p>
+              For my education and work experience, I hold a Bachelor Degree in Information
+              Technology and I've had the opportunity of working in trucking-tech, health-tech,
+              manufacturing and hospitality.
+            </p>
+
+            <p>
+              I am a bit of an adrenaline junkie, so I am always looking for an adventure, but I
+              also spend most of my time reading non-fictionals, playing soccer or discovering my
+              spiritual side.
             </p>
             <p>Here are a few technologies that I’ve worked with:</p>
           </div>
