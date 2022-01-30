@@ -59,13 +59,12 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hello World! I am</h1>;
-  const two = <h2 className="big-heading">Saransh Vaid.</h2>;
-  const three = <h3 className="big-heading">I test things for the web.</h3>;
+  const two = <h2 className="big-heading">Saransh Vaid</h2>;
   const four = (
     <>
       <p>
-        I’m a software developer specialized in building test solutions that help organizations
-        deliver quality products. Currently, I’m focused on Transforming the Future of Healthcare at{' '}
+        I’m a software developer and I build automated testing solutions that help organizations
+        improve software quality. Currently, I’m focused on Transforming the Future of Healthcare at{' '}
         <a href="https://pointclickcare.com/company/about-us/" target="_blank" rel="noreferrer">
           Pointclickcare
         </a>
@@ -74,7 +73,7 @@ const Hero = () => {
     </>
   );
 
-  const items = [one, two, three, four];
+  const items = [one, two, four];
 
   return (
     <StyledHeroSection>
