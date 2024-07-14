@@ -64,9 +64,9 @@ const Hero = () => {
     <>
       <p>
         I’m a software developer and I build automated testing solutions that help organizations
-        improve software quality. Currently, I’m focused on Transforming the Future of Healthcare at{' '}
-        <a href="https://pointclickcare.com/company/about-us/" target="_blank" rel="noreferrer">
-          Pointclickcare
+        improve software quality. Currently, I’m focused on Making contractors heros at{' '}
+        <a href="https://www.joist.com/about-us/" target="_blank" rel="noreferrer">
+          Joist
         </a>
         .
       </p>

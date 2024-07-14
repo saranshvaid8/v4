@@ -133,9 +133,14 @@ const About = () => {
     'Java',
     'Selenium',
     'Cypress',
+    'Playwright',
     'Appium',
+    'Webdriver.io',
     'SQL Server',
+    'PostgreSQL',
+    'Cosmos DB',
     'Azure',
+    'AWS',
   ];
 
   return (
@@ -146,14 +151,14 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              My name is Saransh Vaid, I also go by Sunny. I am software developer focused on
-              building automated testing solutions with the goal of reducing the testing efforts,
-              delivering capability faster and more affordably without compromising quality.
+              My name is Saransh Vaid, I also go by Sunny. I a SDET focused on building automated
+              testing solutions with the goal of reducing the testing efforts, delivering capability
+              faster and more affordably without compromising quality.
             </p>
             <p>
               For my education and work experience, I hold a Bachelor Degree in Information
-              Technology and I've had the opportunity of working in trucking-tech, health-tech,
-              manufacturing and hospitality.
+              Technology and I've had the opportunity of working in, Construction tec,
+              trucking-tech, health-tech, manufacturing and hospitality.
             </p>
 
             <p>

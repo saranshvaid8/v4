@@ -3,7 +3,7 @@ date: '2021-06-01'
 title: 'intermediate Test Engineer'
 company: 'Pointclickcare'
 location: 'Mississauga, ON, Canada'
-range: 'June 2021 - Present'
+range: 'June 2021 - Feb 2020'
 url: 'https://pointclickcare.com/'
 ---
 
